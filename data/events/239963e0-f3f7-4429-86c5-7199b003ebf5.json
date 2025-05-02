@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "dccabb7a-38d0-404e-b298-9ef8d7c0726d": {
+      "label": "my podcast",
+      "is_offline": false,
+      "file_url": "https://ia601705.us.archive.org/12/items/grace-k-fr-fr-fr/GRACE%20K%20fr%20FR%20fr.mp3",
+      "duration": 474,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Houston and Sugar Land Displacement",
+  "created_at": "2025-05-02T05:38:31.641Z",
+  "created_by": "graykard",
+  "updated_at": "2025-05-02T05:38:31.641Z",
+  "updated_by": "graykard"
+}
